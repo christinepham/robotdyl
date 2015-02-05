@@ -1,6 +1,6 @@
 KA Lite Installation Guide
 ===========================
-Hello! If you know what OS you're installing on then click ahead.
+Hello! If you know what Operating System you're installing on then click ahead.
 
 .. toctree::
 	:maxdepth: 3
